@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Grenze+Gotisch&family=Merriweather&display=swap');
+
+h1, h2, h3, h4, td strong {
+	font-family: "Cinzel Decorative" !important;
+	font-weight: normal;
+	margin-bottom: 0 !important;
+	padding-botom: 0 !important;
+	clear: left;
+}
+
+h2 {
+	margin-top: 1rem !important;
+}
+
+h3 {
+	margin-top: 0.2rem !important;
+}
+
+body, p, li, td {
+	font-family: 'Merriweather' !important;
+}
+
+p, ul {
+	margin-top: 0.2rem !important;
+	line-height: 200%;
+}
+
+blockquote {
+	background-color: #333;
+	padding: 1rem 1rem 1rem 1rem !important;
+	margin-bottom: 2rem;
+	border-radius: 4px !important;
+	box-shadow: #000 0 0 4px;
+}
+
+a {
+	color: orange;
+}
+
+a:hover {
+	color: white;
+}
+
+.markdown-preview-view ul > li.task-list-item {
+  text-decoration:none;
+  color: #666;
+}
+
+
+.markdown-preview-view ul > li.task-list-item.is-checked {
+  text-decoration:none;
+  color:var(--text-normal);
+}
+
+
+table {
+	border: 1px solid #333 !important;
+	border-radius: 4px !important;
+	box-shadow: #000 0 0 4px;
+}
+
+td {
+	border: 0 !important;
+	border-bottom: 1px solid #333 !important;
+	border-collapse: collapse !important;
+	vertical-align: top;
+	padding: 0.4rem 2rem 0.4rem 0.4rem !important;
+}
+
+tr:nth-child(even) {
+  background-color: #333;
+}
+
+th {
+	border: 0 !important;
+	border-bottom: 1px solid #333 !important;
+	background-color: #000;
+	text-align: left;
+	padding: 0.4rem 2rem 0.4rem 0.4rem !important;
+}
+
+code {
+	color: #999 !important;
+	display: inline;
+	background: transparent !important;
+}
+
+.markdown-preview-view .markdown-embed-title,
+.markdown-preview-view .obsidian-metatable {
+  display: none;
+}
+
+.markdown-preview-view .markdown-embed,
+.markdown-preview-view .file-embed {
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.markdown-preview-section div > br {
+  display: none;
+}
+
+.markdown-preview-view .markdown-embed-content,
+.markdown-preview-view .markdown-embed-content > .markdown-preview-view {
+  max-height: unset;
+  padding: 0 !important; /* !important for "Pisum" theme */
+  margin: 0 1rem 1rem 0;
+  border: 0;
+  float: left;
+}
+
+.markdown-preview-view .markdown-embed-link,
+.markdown-preview-view .file-embed-link {
+  display: none;
+}
+
+hr {
+	clear: both;
+}
+
+img {
+	float: right;
+	border-radius: 4px;
+	box-shadow: #000 0 0 4px;
+	margin: 0 0 2rem 2rem;
+	padding: 0;
+}
+
+img[alt*="no-float"] {
+	float: none !important;
+	margin: 0 1rem 1rem 0;
+}
+
+img[alt*="float-left"] {
+	float: left !important;
+	display: inline-block;
+	margin: 0 1rem 1rem 0;
+}
+
+img[alt*="small"] {
+	width: 52px;
+	height: 52px;
+	margin: 0 0.2rem 0.2rem 0 !important;
+	object-fit: cover;
+}
+
+

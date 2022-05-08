@@ -1,0 +1,359 @@
+{
+  "workspaces": {
+    "": {
+      "main": {
+        "id": "523e737ef6a288ef",
+        "type": "split",
+        "children": [
+          {
+            "id": "387f054c7dd1510c",
+            "type": "split",
+            "children": [
+              {
+                "id": "6e0488a752212209",
+                "type": "split",
+                "dimension": 27.26597325408618,
+                "children": [
+                  {
+                    "id": "cda13f9249f4de57",
+                    "type": "leaf",
+                    "dimension": 25.02574665293512,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Characters/Helgot/_Stats.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "1046ac4df840bb4f",
+                    "type": "leaf",
+                    "dimension": 27.188465499485066,
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Characters/Helgot/_Basic Tracks.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "24a31851d96c58b8",
+                    "type": "leaf",
+                    "dimension": 47.78578784757981,
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Sessions/003 - 2022-05-08.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  }
+                ],
+                "direction": "vertical"
+              },
+              {
+                "id": "e47b8176f10ef8a3",
+                "type": "split",
+                "dimension": 72.73402674591381,
+                "children": [
+                  {
+                    "id": "c180d5e5b963b338",
+                    "type": "split",
+                    "children": [
+                      {
+                        "id": "73e237bd98487c3b",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Rules/Delve/Delve the Depths of Dwimmermount.md",
+                            "mode": "preview",
+                            "source": false
+                          },
+                          "pinned": true
+                        }
+                      },
+                      {
+                        "id": "76db5d9485c48aa3",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Characters/Helgot/Helgot.md",
+                            "mode": "preview",
+                            "source": false
+                          }
+                        }
+                      }
+                    ],
+                    "direction": "horizontal"
+                  },
+                  {
+                    "id": "4a4dbe4709a87e64",
+                    "type": "split",
+                    "children": [
+                      {
+                        "id": "2e3e9a84e798080c",
+                        "type": "leaf",
+                        "dimension": 39.682539682539684,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Places/Dwimmermount/Floors/1/The Path of Mavors.md",
+                            "mode": "preview",
+                            "source": false
+                          }
+                        }
+                      },
+                      {
+                        "id": "ddd21e9e9c21d559",
+                        "type": "leaf",
+                        "dimension": 60.317460317460316,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Rules/Moves.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
+                      }
+                    ],
+                    "direction": "horizontal"
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "49109d7a0158a298",
+        "type": "split",
+        "children": [
+          {
+            "id": "e4e67d040d0b4b33",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ac5a47d9aa65a90c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1e5660a1288c59c4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 171
+      },
+      "right": {
+        "id": "2dd645f5c866b18d",
+        "type": "split",
+        "children": [
+          {
+            "id": "f827a41de1f2ba68",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "45781de55f3cbf94",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Characters/Helgot/_Stats.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e0e938268b1c6ea4",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Characters/Helgot/_Stats.md"
+                  }
+                }
+              },
+              {
+                "id": "7709f89b0c3b6c27",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8b1db3efe3100eef",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 313.3333435058594
+      },
+      "active": "cda13f9249f4de57"
+    },
+    "Play": {
+      "main": {
+        "id": "523e737ef6a288ef",
+        "type": "split",
+        "children": [
+          {
+            "id": "76db5d9485c48aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/003 - 2022-05-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "49109d7a0158a298",
+        "type": "split",
+        "children": [
+          {
+            "id": "e4e67d040d0b4b33",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ac5a47d9aa65a90c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1e5660a1288c59c4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 313
+      },
+      "right": {
+        "id": "2dd645f5c866b18d",
+        "type": "split",
+        "children": [
+          {
+            "id": "f827a41de1f2ba68",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "45781de55f3cbf94",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Sessions/003 - 2022-05-08.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e0e938268b1c6ea4",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Sessions/003 - 2022-05-08.md"
+                  }
+                }
+              },
+              {
+                "id": "7709f89b0c3b6c27",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8b1db3efe3100eef",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 455.3333435058594
+      },
+      "active": "76db5d9485c48aa3"
+    }
+  },
+  "active": "Play"
+}

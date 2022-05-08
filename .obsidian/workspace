@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "523e737ef6a288ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "76db5d9485c48aa3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sessions/003 - 2022-05-08.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49109d7a0158a298",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4e67d040d0b4b33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac5a47d9aa65a90c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e5660a1288c59c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313
+  },
+  "right": {
+    "id": "2dd645f5c866b18d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f827a41de1f2ba68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45781de55f3cbf94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/003 - 2022-05-08.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0e938268b1c6ea4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sessions/003 - 2022-05-08.md"
+              }
+            }
+          },
+          {
+            "id": "7709f89b0c3b6c27",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b1db3efe3100eef",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 455.3333435058594
+  },
+  "active": "76db5d9485c48aa3",
+  "lastOpenFiles": [
+    "Sessions/003 - 2022-05-08.md",
+    "Characters/Helgot/Helgot.md",
+    "Characters/Helgot/_Progress Tracks.md",
+    "Characters/Helgot/_Stats.md",
+    "Rules/Delve/Delve the Depths of Dwimmermount.md",
+    "Rules/Moves.md",
+    "Characters/Yorath.md",
+    "Characters/Helgot/_Basic Tracks.md",
+    "Places/Dwimmermount/Floors/1/The Path of Mavors.md",
+    "Monsters/Kobolds.md"
+  ]
+}

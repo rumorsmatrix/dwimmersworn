@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 14,
+  "theme": "obsidian",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "ironsworn"
+  ],
+  "cssTheme": ""
+}
